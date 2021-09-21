@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: 'Abril Fatface', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(89deg, #499b9e 0%, rgb(70, 185, 170) 100%);
+
+}
+
+h1{
+  color: white;
+  text-shadow: 0.2;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
